@@ -1,0 +1,15 @@
+<!doctype html>
+<body>
+<h1 style="font-family: sans-serif>Animation vs Animator Game</h1>
+<script>
+    window.RufflePlayer = window.RufflePlayer || {};
+    window.addEventListener("load", (event) => {
+        const ruffle = window.RufflePlayer.newest();
+        const player = ruffle.createPlayer();
+        const container = document.getElementById("container");
+        container.appendChild(player);
+        player.load("ImagesVideos/Animator_vs_Animation_Game_Special_Edition.swf");
+    });
+</script>
+<script src="path/to/ruffle/ruffle.js"></script>
+</html>

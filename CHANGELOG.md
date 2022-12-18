@@ -10,3 +10,7 @@ added Flash Games [beta, it can go wrong]
 Installed Ruffle
 
 Made this changelog
+
+Updated the home page [index.html]
+
+Updated the first test [firsttest.html]

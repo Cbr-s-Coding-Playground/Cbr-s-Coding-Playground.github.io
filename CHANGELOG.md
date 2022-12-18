@@ -8,3 +8,5 @@ Updated the README.md
 added Flash Games [beta, it can go wrong]
 
 Installed Ruffle
+
+Made this changelog

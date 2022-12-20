@@ -18,3 +18,5 @@ Updated the first test [firsttest.html]
 None.
 # 12/20/22
 Updated the blue background text [index.html]
+
+Added a favicon.ico

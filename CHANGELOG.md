@@ -14,3 +14,7 @@ Made this changelog
 Updated the home page [index.html]
 
 Updated the first test [firsttest.html]
+# 12/19/22
+None.
+# 12/20/22
+Updated the blue background text [index.html]

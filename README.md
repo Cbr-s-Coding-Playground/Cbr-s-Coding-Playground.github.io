@@ -9,3 +9,13 @@ site. However it has to be a request I can understand.
 
 *I understand that if my pull request did not get accepted that means that [I] can't do it
 or either it's confusing and I still need to learn how to code
+
+Example:
+
+![image_2022-12-21_133243601](https://user-images.githubusercontent.com/82298138/208997762-15612e03-57e8-4ac3-b359-80d23096342b.png)
+
+The Code.
+
+![image_2022-12-21_133313326](https://user-images.githubusercontent.com/82298138/208997840-a5c979ed-f987-46c5-8e9e-3f425a848577.png)
+
+Make a comment that you understand I can't do ALL the coding provided.

@@ -11,12 +11,16 @@ Installed Ruffle
 
 Made this changelog
 
-Updated the home page [index.html]
+Updated the home page [index.html] (index.html)
 
-Updated the first test [firsttest.html]
+Updated the first test [firsttest.html] (firsttest.html)
 # 12/19/22
 None.
 # 12/20/22
-Updated the blue background text [index.html]
+Updated the blue background text [index.html] (index.html)
 
 Added a favicon.ico
+# 12/21/22
+Added a new page, [scratchembedtest.html] (scratchembedtest.html)
+
+Updated the README.md

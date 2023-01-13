@@ -1,0 +1,4 @@
+echo "cbr-s-coding-playground.github.io" > CNAME
+git add -A
+git commit -m “Added CNAME file.”
+git push origin master
